@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Gemini PDA KCM</string>
     <string name="keyboard_layout_label">KCM remap test for Gemini PDA</string>
+    <string name="keyboard_layout_gemini_us_remap_00">!Gemini PDA US remap 00</string>
     <string name="keyboard_layout_gemini_us_remap_01">!Gemini PDA US remap 01 右SHIFTが長音記号</string>
     <string name="keyboard_layout_gemini_us_remap_02">!Gemini PDA US remap 02 右SHIFTがHOME(fn:BACK) replaceでバッチリ</string>
     <string name="keyboard_layout_gemini_us_remap_02f">!Gemini PDA US remap 02f 右SHIFTがHOME(fn:BACK) fallbackでイマイチ</string>
